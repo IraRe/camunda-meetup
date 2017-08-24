@@ -6,6 +6,6 @@ Das lending.war einfach in Camunda-Wildfly Deployment-Ordner kopieren.
 
 Vor dem Ausführen des Prozesses die beiden Dummy-Services policy-service und user-service hochfahren. Dazu einfach 
 ./mvnw spring-boot:run
-im jeweiligen Verzeichniss ausführen.
+im jeweiligen Verzeichnis ausführen.
 
-Die beiden Service-Tasks habe ich nur hinzugefügt, um den Camunda REST-Connector auszuprobieren. Aus der fachlichen Sicht machen sie überhaupt keinen Sinn ;)
+Die beiden Service-Tasks habe ich nur hinzugefügt, um den Camunda REST-Connector auszuprobieren. Aus der fachlichen Sicht ergeben sie überhaupt keinen Sinn ;)
